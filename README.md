@@ -1,3 +1,3 @@
 ## Hey i'm pierrelasse!
 
-My Discord: **Pierrelasse#3737**
+💎 Discord: **Pierrelasse#3737**
