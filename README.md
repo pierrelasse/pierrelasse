@@ -1,6 +1,8 @@
 ## Hey i'm pierrelasse!
 
+### Contact <br />
 💎 Discord: **Pierrelasse#3737**
+⚒️ Minecraft: **pierrelasse**
 
 <hr>
 
