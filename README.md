@@ -4,7 +4,7 @@
 
 <hr>
 
-# Coding languages <br />
+### Coding languages <br />
 ☕️ Java (Bukkit/Spigot, Bungeecord) <br />
 📒 Java Script (DiscordJS using NodeJS) <br />
 📃 Skript <br />
