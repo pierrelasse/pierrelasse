@@ -3,7 +3,8 @@
 💎 Discord: **Pierrelasse#3737**
 
 <hr>
-<bold>Coding languages<bold/>
+
+#Coding languages <br />
 ☕️ Java (Bukkit/Spigot, Bungeecord) <br />
 📒 Java Script (DiscordJS using NodeJS) <br />
 📃 Skript <br />
