@@ -3,9 +3,9 @@
 💎 Discord: **Pierrelasse#3737**
 
 <hr>
-## Coding languages
-☕️ Java (Bukkit/Spigot, Bungeecord)
-📒 Java Script (DiscordJS using NodeJS)
-📃 Skript
-🐍 Python
-💀 Lua
+<bold>Coding languages<bold/>
+☕️ Java (Bukkit/Spigot, Bungeecord) <br />
+📒 Java Script (DiscordJS using NodeJS) <br />
+📃 Skript <br />
+🐍 Python <br />
+💀 Lua <br />
