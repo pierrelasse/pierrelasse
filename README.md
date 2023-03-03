@@ -1,6 +1,6 @@
 ## Hey i'm pierrelasse!
 
-### Socials <br />
+### Accounts <br />
 💎 Discord: **Pierrelasse#3737** <br />
 ⚒️ Minecraft: **pierrelasse** <br />
 
@@ -12,3 +12,6 @@
 📃 Skript <br />
 🐍 Python <br />
 💀 Lua <br />
+
+### Stuff i don't like wasting time with <br />
+HTML, CSS, PHP, SQL
