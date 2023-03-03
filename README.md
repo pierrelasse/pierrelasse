@@ -1,12 +1,12 @@
 ## Hey i'm pierrelasse!
 
-### Contact <br />
+### Socials <br />
 💎 Discord: **Pierrelasse#3737** <br />
 ⚒️ Minecraft: **pierrelasse** <br />
 
 <hr>
 
-### Coding languages <br />
+### Stuff i can waste time with <br />
 ☕️ Java (Bukkit/Spigot, Bungeecord) <br />
 📒 Java Script (DiscordJS using NodeJS) <br />
 📃 Skript <br />
