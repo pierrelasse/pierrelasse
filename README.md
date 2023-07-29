@@ -1,17 +1,15 @@
-## Hey i'm pierrelasse!
+## Hey i'm the le pierrelasse! <|: -^ D)
 
 ### Accounts <br />
-💎 Discord: **Pierrelasse#3737** <br />
+💎 Discord: **dcistdreck** <br />
 ⚒️ Minecraft: **pierrelasse** <br />
 
 <hr>
 
-### Stuff i can waste time with <br />
-☕️ Java (Bukkit/Spigot, Bungeecord) <br />
-📒 Java Script (DiscordJS using NodeJS) <br />
-📃 Skript <br />
-🐍 Python <br />
-💀 Lua <br />
+# I can type some poop in
+- Java
+- Python
+- HTML, CSS & JavaScript
 
-### Stuff i don't like wasting time with <br />
-HTML, CSS, PHP, SQL
+and other stuff but i forgor.
+Lua is so poop ngl.
