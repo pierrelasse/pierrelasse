@@ -1,8 +1,7 @@
 ## Hey i'm the le pierrelasse! <|: -^ D)
 
-### Accounts <br />
+### Contact <br />
 💎 Discord: **dcistdreck** <br />
-⚒️ Minecraft: **pierrelasse** <br />
 
 <hr>
 
