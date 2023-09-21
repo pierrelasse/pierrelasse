@@ -1,14 +1,4 @@
-## Hey i'm the le pierrelasse! <|: -^ D)
+# Hey i'm pierrelasse!
 
-### Contact <br />
+## Contact <br />
 💎 Discord: **dcistdreck** <br />
-
-<hr>
-
-# I can type some poop in
-- Java
-- Python
-- HTML, CSS & JavaScript
-
-and other stuff but i forgor.
-Lua is so poop ngl.
