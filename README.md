@@ -1,4 +1,6 @@
 # Hey i'm pierrelasse!
 
-## Contact <br />
-💎 Discord: **dcistdreck** <br />
+## You can contact me on
+  - 💎 Discord: **dcistdreck**
+
+You can also checkout my gist/s: https://gist.github.com/pierrelasse
