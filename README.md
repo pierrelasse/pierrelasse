@@ -1,6 +1,3 @@
-# Hey i'm pierrelasse!
+### Hey I'm pierrelasse! (crazy info)
 
-## You can contact me on
-  - 💎 Discord: **dcistdreck**
-
-You can also checkout [my gists](https://gist.github.com/pierrelasse/).
+- 💎 Discord: **dcistdreck**
